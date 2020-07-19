@@ -19,4 +19,4 @@ git clone https://github.com/siamahme/Siyamahmed
 
 cd Siyamahmed
 
-python2 Siyamahmed.py
+python2 Rayanabir.py
